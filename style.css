@@ -1,0 +1,20 @@
+body{
+    background-color:pink;
+}
+h1{
+    color: palevioletred;
+}
+p{ 
+    color:blueviolet;
+}
+button{
+    background-color:navy;
+    color:chartreuse;
+}
+#main-title{
+    text-align: center;
+}#message{
+    color: aqua;
+    font-size: 20px;
+
+}
